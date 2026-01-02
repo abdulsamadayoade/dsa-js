@@ -8,7 +8,6 @@
  * @param {number[]} numbers
  * @returns {number}
  */
-
 function maxValue(numbers) {
   let initialMaxValue = Number.NEGATIVE_INFINITY;
 
